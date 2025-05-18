@@ -1,0 +1,93 @@
+{
+    "hypertension": {
+        "yoruba": "Ifunpa giga",
+        "igbo": "",
+        "hausa": ""
+    },
+    "diabetes": {
+        "yoruba": "Ito sugar",
+        "igbo": "",
+        "hausa": ""
+    },
+    "headache": {
+        "yoruba": "Ori fifo",
+        "igbo": "",
+        "hausa": ""
+    },
+    "cancer": {
+        "yoruba": "Jejere",
+        "igbo": "",
+        "hausa": ""
+    },
+    "arthritis": {
+        "yoruba": "Aromo legun",
+        "igbo": "",
+        "hausa": ""
+    },
+    "diarrhea": {
+        "yoruba": "Igbe gburu",
+        "igbo": "",
+        "hausa": ""
+    },
+    "constipation": {
+        "yoruba": "Ai ri gbeya",
+        "igbo": "",
+        "hausa": ""
+    },
+    "tuberculosis": {
+        "yoruba": "Iko fe",
+        "igbo": "",
+        "hausa": ""
+    },
+    "pneumonia": {
+        "yoruba": "Otutu aya",
+        "igbo": "",
+        "hausa": ""
+    },
+    "cholera": {
+        "yoruba": "Arun onigba meji",
+        "igbo": "",
+        "hausa": ""
+    },
+    "ulcer": {
+        "yoruba": "Ogbe inu",
+        "igbo": "",
+        "hausa": ""
+    },
+    "tonsillitis": {
+        "yoruba": "Belu belu",
+        "igbo": "",
+        "hausa": ""
+    },
+    "mumps": {
+        "yoruba": "Segede",
+        "igbo": "",
+        "hausa": ""
+    },
+    "epilepsy": {
+        "yoruba": "Warapa",
+        "igbo": "",
+        "hausa": ""
+    },
+    "hiv/aids": {
+        "yoruba": "Arun kogbogun",
+        "igbo": "",
+        "hausa": ""
+    },
+    "leprosy": {
+        "yoruba": "Ete",
+        "igbo": "",
+        "hausa": ""
+    },
+    "conjuctivitis": {
+        "yoruba": "Apolo",
+        "igbo": "",
+        "hausa": ""
+    },
+    "stomachache": {
+        "yoruba": "Inu rirun",
+        "igbo": "",
+        "hausa": ""
+    }
+
+}
