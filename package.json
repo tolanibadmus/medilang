@@ -1,22 +1,39 @@
 {
   "name": "medilang",
-  "version": "1.0.0",
-  "main": "index.ts",
+  "version": "1.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
+    "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
-  "git repository": "https://github.com/tolanibadmus/medilang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolanibadmus/medilang.git"
+  },
   "keywords": [
     "medical translator",
     "medical diagnosis(Nigerian)",
     "translate medical diagnosis"
   ],
   "author": "Tolani Badmus",
-  "license": "ISC",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
   "description": "Tranlate medical conditions from English into Nigerian languages",
   "devDependencies": {
     "ts-node": "^10.9.2",
+    "tsup": "^8.5.0",
     "typescript": "^5.7.3"
   }
 }
